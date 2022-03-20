@@ -10,4 +10,4 @@ File extensions which end in ```_noext.py``` apply to the original model reprodu
 Otherwise, files are part of the extension.
 
 _Note of integrity:_ No opensource code was used during the design and implementation of either
-the original model or the etension
+the original model or the extension
